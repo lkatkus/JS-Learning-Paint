@@ -1,2 +1,2 @@
 # JS-Learning-Paint
-Personal project for studying JS.
+Very simple JS learning project.
